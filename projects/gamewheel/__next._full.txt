@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:I[70119,["/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js"],"default"]
+3:I[39756,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","style"]
+:HL["/bill-crandell-dev/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bill-crandell-dev/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"_KR-MvGGc2CST3j-1TH9a","c":["","projects","gamewheel",""],"q":"","i":false,"f":[[["",{"children":["projects",{"children":[["slug","gamewheel","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased bg-slate-950 text-slate-100 min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-slate-700 bg-slate-900/50 backdrop-blur-sm mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","p",null,{"className":"text-slate-400 text-sm","children":["© ",2025," Bill Crandell. Built with Next.js and AI-speed development."]}],["$","div",null,{"className":"flex items-center gap-4","children":["$","a",null,{"href":"https://github.com/CrandellWS","target":"_blank","rel":"noopener noreferrer","className":"text-slate-400 hover:text-white transition-colors flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}],["$","span",null,{"className":"text-sm","children":"GitHub"}]]}]}]]}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:T20d5,<h1>GameWheel - Advanced Random Selection Spinner</h1>
+<p>GameWheel is a powerful, open-source random selection spinner with multiple game modes, chat platform integration, and extensive customization options. Perfect for streamers, educators, event organizers, and anyone who needs fair random selection.</p>
+<h2>Features</h2>
+<h3>🎮 Multiple Game Modes</h3>
+<p><strong>First Win Mode</strong></p>
+<ul>
+<li>Traditional wheel behavior - spin and select a winner</li>
+<li>Optional winner removal</li>
+<li>Perfect for giveaways and simple selections</li>
+</ul>
+<p><strong>Last Remaining Mode</strong></p>
+<ul>
+<li>Competitive elimination format</li>
+<li>Each spin eliminates the selected entry</li>
+<li>The final entry is the ultimate winner</li>
+<li>Best for tournaments and battle royale style events</li>
+</ul>
+<p><strong>Full Tilt Mode</strong> (NEW in v2.2.0)</p>
+<ul>
+<li>Dramatic ladder-climbing competition</li>
+<li>Players race to reach the top</li>
+<li>Configurable heights: 3, 5, 7, or 10 rungs</li>
+<li>Visual ladder display with real-time animated progress</li>
+<li>Champion celebration with confetti and trophy overlay</li>
+<li>All-or-nothing suspense and progressive competition</li>
+</ul>
+<h3>🎨 Visual Excellence</h3>
+<p><strong>Dynamic Tier System</strong></p>
+<ul>
+<li>4-tier visual hierarchy based on wheel positions</li>
+<li>Tier 1 (North): 2.0x slice size, gold theme, star markers</li>
+<li>Tier 2 (Cardinals): 1.6x size, platinum shimmer</li>
+<li>Tier 3 (Diagonals): 1.3x size, enhanced glow</li>
+<li>Tier 4 (Standard): Normal sizing</li>
+</ul>
+<p><strong>Animations &#x26; Effects</strong></p>
+<ul>
+<li>Smooth 60fps Canvas rendering</li>
+<li>Physics-based spinning with realistic friction</li>
+<li>Framer Motion transitions</li>
+<li>Confetti celebrations (toggleable)</li>
+<li>Trophy overlays for winners</li>
+<li>Ladder climb animations</li>
+</ul>
+<h3>💬 Chat Integration</h3>
+<p>Accept contestant submissions from multiple platforms:</p>
+<ul>
+<li><strong>Twitch</strong> - Channel points, bits, chat commands</li>
+<li><strong>Discord</strong> - Slash commands, reactions</li>
+<li><strong>YouTube</strong> - Super Chat, memberships</li>
+</ul>
+<p>Features:</p>
+<ul>
+<li>Configurable minimum fee amounts</li>
+<li>Real-time entry addition</li>
+<li>Platform-specific validation</li>
+<li>Webhook integration</li>
+</ul>
+<blockquote>
+<p><strong>Note</strong>: Chat integration requires serverless hosting (Vercel, Netlify). GitHub Pages deployment includes all other features with manual entry management.</p>
+</blockquote>
+<h3>⚙️ Customization Options</h3>
+<p><strong>Per-Entry Customization</strong></p>
+<ul>
+<li>Weighted probability (1-10 scale)</li>
+<li>Individual color selection</li>
+<li>Inline name editing</li>
+<li>Bulk add (comma/newline separated)</li>
+</ul>
+<p><strong>Global Settings</strong></p>
+<ul>
+<li>Dark mode with system preference detection</li>
+<li>Custom terminology (Contestants, Players, Participants, etc.)</li>
+<li>Adjustable spin duration (2-6 seconds)</li>
+<li>Sound effects toggle</li>
+<li>Confetti animation toggle</li>
+</ul>
+<h3>📊 Data Management</h3>
+<p><strong>History Tracking</strong></p>
+<ul>
+<li>Complete spin history with timestamps</li>
+<li>Game mode indicators</li>
+<li>Elimination tracking</li>
+<li>Ladder climb progress</li>
+<li>CSV export for analysis</li>
+</ul>
+<p><strong>Import/Export</strong></p>
+<ul>
+<li>Save wheel configurations as JSON</li>
+<li>Share setups between devices</li>
+<li>Auto-save to localStorage</li>
+<li>No tracking - all data stays local</li>
+</ul>
+<h3>⌨️ Keyboard Shortcuts</h3>
+<ul>
+<li><code>Space</code> or <code>Enter</code> - Spin the wheel</li>
+<li><code>S</code> - Open settings</li>
+<li><code>D</code> - Toggle dark mode</li>
+<li><code>?</code> - Show keyboard shortcuts help</li>
+<li><code>Esc</code> - Close modals</li>
+</ul>
+<h2>Tech Stack</h2>
+<ul>
+<li><strong>Framework</strong>: Next.js 14 (App Router)</li>
+<li><strong>Language</strong>: TypeScript (strict mode, 0 errors)</li>
+<li><strong>Styling</strong>: TailwindCSS</li>
+<li><strong>State Management</strong>: Zustand with persistence</li>
+<li><strong>Animations</strong>: Framer Motion</li>
+<li><strong>Rendering</strong>: HTML5 Canvas API</li>
+<li><strong>Icons</strong>: Lucide React</li>
+<li><strong>Deployment</strong>: GitHub Pages (static export)</li>
+</ul>
+<h2>Metrics</h2>
+<ul>
+<li><strong>Bundle Size</strong>: 152 kB (optimized)</li>
+<li><strong>Build</strong>: Static export</li>
+<li><strong>TypeScript</strong>: Strict mode, 0 errors</li>
+<li><strong>Performance</strong>: 60fps animations</li>
+<li><strong>Mobile</strong>: Fully responsive</li>
+<li><strong>Accessibility</strong>: Keyboard navigation</li>
+</ul>
+<h2>Live Demo</h2>
+<p>Experience GameWheel in action: <a href="https://crandellws.github.io/gamewheel/">https://crandellws.github.io/gamewheel/</a></p>
+<p>Try all three game modes:</p>
+<ol>
+<li><strong>First Win</strong> - Classic wheel spinning</li>
+<li><strong>Last Remaining</strong> - Elimination tournament</li>
+<li><strong>Full Tilt</strong> - Ladder climb competition</li>
+</ol>
+<h2>Development Highlights</h2>
+<h3>Canvas Rendering Precision</h3>
+<p>Eliminated floating-point precision issues with perfect 360° coverage:</p>
+<pre><code class="language-typescript">// Epsilon tolerance for boundary detection
+const EPSILON = 0.0001;
+
+// Perfect segment coverage for any entry count
+const arcLength = (2 * Math.PI) / entries.length;
+</code></pre>
+<h3>Physics-Based Animation</h3>
+<p>Realistic friction simulation for natural spinning behavior:</p>
+<pre><code class="language-typescript">const spinWheel = (targetAngle: number) => {
+  const friction = 0.96;
+  let velocity = initialVelocity;
+
+  const animate = () => {
+    velocity *= friction;
+    currentAngle += velocity;
+
+    if (velocity &#x3C; stopThreshold) {
+      // Settle on winner
+    } else {
+      requestAnimationFrame(animate);
+    }
+  };
+};
+</code></pre>
+<h3>State Migration System</h3>
+<p>Backward-compatible version migration:</p>
+<pre><code class="language-typescript">const migrateState = (state: any, version: number) => {
+  if (version &#x3C; 2) {
+    // Migrate v1 to v2
+    state.gameMode = 'first-win';
+  }
+  if (version &#x3C; 3) {
+    // Migrate v2 to v3
+    state.ladderHeight = 5;
+  }
+  return state;
+};
+</code></pre>
+<h2>Use Cases</h2>
+<ul>
+<li><strong>Streamers</strong>: Integrate with Twitch/YouTube for paid entry giveaways</li>
+<li><strong>Educators</strong>: Random student selection with custom terminology</li>
+<li><strong>Event Organizers</strong>: Raffle drawings and elimination tournaments</li>
+<li><strong>Game Masters</strong>: D&#x26;D initiative order or random encounters</li>
+<li><strong>Teams</strong>: Fair task assignment or team member selection</li>
+<li><strong>Content Creators</strong>: Audience engagement and interactive content</li>
+</ul>
+<h2>GitHub Repository</h2>
+<p>Full source code, documentation, and contribution guidelines:
+<a href="https://github.com/CrandellWS/gamewheel">https://github.com/CrandellWS/gamewheel</a></p>
+<h2>Documentation</h2>
+<p>Comprehensive guides available in the repository:</p>
+<ul>
+<li><strong>README.md</strong> - Setup and features overview</li>
+<li><strong>FULL_TILT_USER_GUIDE.md</strong> - Ladder climb mode details</li>
+<li><strong>CHAT_INTEGRATION.md</strong> - Platform integration setup</li>
+<li><strong>DEPLOYMENT.md</strong> - Hosting options and instructions</li>
+</ul>
+<h2>Version History</h2>
+<p><strong>v2.2.0</strong> - Full Tilt Mode</p>
+<ul>
+<li>Ladder climb game mode</li>
+<li>Animated progress tracking</li>
+<li>Champion celebrations</li>
+<li>Documentation expansion</li>
+</ul>
+<p><strong>v2.0</strong> - Game Modes &#x26; Chat</p>
+<ul>
+<li>Last Remaining elimination mode</li>
+<li>Chat platform integration</li>
+<li>Configurable terminology</li>
+<li>Enhanced history tracking</li>
+</ul>
+<p><strong>v1.0</strong> - Initial Release</p>
+<ul>
+<li>First Win mode</li>
+<li>Weighted probability</li>
+<li>Dark mode</li>
+<li>CSV export</li>
+</ul>
+<h2>Contributing</h2>
+<p>Contributions welcome! See the <a href="https://github.com/CrandellWS/gamewheel">GitHub repository</a> for guidelines.</p>
+<h2>License</h2>
+<p>MIT License - Open source and free to use.</p>
+<hr>
+<p><strong>Built with AI-speed development</strong> - Demonstrating 70% faster development through parallel team orchestration while maintaining production quality and zero errors.</p>
+5:["$","article",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-white","children":"GameWheel"}],["$","p",null,{"className":"text-xl text-slate-300 mb-6","children":"Advanced random selection spinner with multiple game modes, visual effects, and chat integration"}],["$","div",null,{"className":"flex gap-4 mb-6","children":[["$","a",null,{"href":"https://github.com/CrandellWS/gamewheel","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg transition-colors border border-slate-600","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}],"View on GitHub"]}],["$","a",null,{"href":"https://crandellws.github.io/gamewheel/","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link","aria-hidden":"true","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}],"Live Demo"]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-8","children":[["$","span","nextjs",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"nextjs"}],["$","span","typescript",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"typescript"}],["$","span","canvas",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"canvas"}],["$","span","zustand",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"zustand"}],["$","span","framer-motion",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"framer-motion"}],["$","span","tailwindcss",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700","children":"tailwindcss"}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-slate max-w-none prose-headings:text-white prose-a:text-blue-400 prose-code:text-green-400","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"GameWheel - Bill Crandell"}],["$","meta","1",{"name":"description","content":"Advanced random selection spinner with multiple game modes, visual effects, and chat integration"}],["$","meta","2",{"name":"author","content":"Bill Crandell"}],["$","meta","3",{"name":"keywords","content":"developer,AI development,Next.js,TypeScript,full-stack"}],["$","meta","4",{"property":"og:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","5",{"property":"og:description","content":"Building at AI-speed with parallel execution patterns"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","9",{"name":"twitter:description","content":"Building at AI-speed with parallel execution patterns"}],["$","link","10",{"rel":"icon","href":"/bill-crandell-dev/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","11",{}]]
+8:null
