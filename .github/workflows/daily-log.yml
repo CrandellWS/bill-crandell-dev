@@ -1,0 +1,54 @@
+name: Daily Accountability Log
+
+on:
+  schedule:
+    # Run at 8 PM UTC every day
+    - cron: '0 20 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Need full history for git log analysis
+
+      - name: Checkout all project repos
+        run: |
+          # Clone your other repos to analyze activity
+          cd /tmp
+          # Add your other repos here as needed
+          # git clone https://github.com/CrandellWS/gamewheel.git || true
+          # git clone https://github.com/CrandellWS/streamer-slots.git || true
+
+      - name: Generate daily log
+        run: |
+          chmod +x ./scripts/generate-daily-log.sh
+          ./scripts/generate-daily-log.sh
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add posts/*.md
+            git commit -m "Add daily dev log for $(date +%Y-%m-%d) [automated]" || exit 0
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Trigger deployment
+        if: success()
+        run: |
+          echo "Log generated and committed successfully"
+          # If using GitHub Pages, it will auto-deploy
+          # If using Vercel/Netlify, add deployment trigger here
