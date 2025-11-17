@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[70119,["/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js"],"default"]
+3:I[39756,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","style"]
+:HL["/bill-crandell-dev/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bill-crandell-dev/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"ziX7GJftcXFIbNOFsVGE3","c":["","blog","2025-11-17-myprize-api-exploration",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","2025-11-17-myprize-api-exploration","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased bg-slate-950 text-slate-100 min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-slate-700 bg-slate-900/50 backdrop-blur-sm mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","p",null,{"className":"text-slate-400 text-sm","children":["© ",2025," Bill Crandell. Built with Next.js and AI-speed development."]}],["$","div",null,{"className":"flex items-center gap-4","children":["$","a",null,{"href":"https://github.com/CrandellWS","target":"_blank","rel":"noopener noreferrer","className":"text-slate-400 hover:text-white transition-colors flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}],["$","span",null,{"className":"text-sm","children":"GitHub"}]]}]}]]}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:T11c3,<h1>MyPrize API Exploration: Planning the Moonie Integration</h1>
+<p>Today was all about exploring the MyPrize Creator API to plan the automated prize distribution system for Moonie-v2.</p>
+<h2>What We Built</h2>
+<p>Created a comprehensive API explorer at <code>/myprize-api-explorer/</code>:</p>
+<ul>
+<li><strong>Interactive credential tool</strong> - Secure secret key input (only prompts for sensitive data)</li>
+<li><strong>HMAC-SHA512 authentication</strong> - Full implementation of MyPrize's signature algorithm</li>
+<li><strong>Comprehensive endpoint testing</strong> - Automated tests for 7+ API endpoints</li>
+<li><strong>Error handling</strong> - Graceful handling of permission errors and API issues</li>
+</ul>
+<h2>Key Findings</h2>
+<h3>✅ What Works</h3>
+<p>Successfully authenticated and accessed:</p>
+<ul>
+<li>Referral volume statistics</li>
+<li>Referred users list</li>
+<li>Scaled volume aggregation</li>
+<li>Room activity monitoring</li>
+</ul>
+<p>Authentication is working perfectly - HMAC-SHA512 signature generation is correct.</p>
+<h3>🔒 Critical Blocker</h3>
+<p>The core functionality we need - <strong>promotional prize assignment</strong> - requires additional API permissions:</p>
+<pre><code>GET /api/creator/promos/assignable
+POST /api/creator/promos/{promo_id}/assign
+</code></pre>
+<p>Error: <code>apiKeyPermissionDisabled</code></p>
+<p><strong>This is the blocker for Moonie-v2 integration.</strong></p>
+<h2>Why This Matters</h2>
+<p>The entire point of MyPrize integration is to <strong>automatically assign prizes to Moonie winners</strong>:</p>
+<ol>
+<li>User plays along on MyPrize → qualifies for Moonie spin</li>
+<li>Moonie-v2 determines winner and prize tier</li>
+<li>Backend calls MyPrize API to assign the prize</li>
+<li>Winner gets notified via PubNub chat</li>
+<li>Prize appears in their MyPrize account instantly</li>
+</ol>
+<p>Without promo assignment access, we can't build or test this flow.</p>
+<p>The other endpoints (stats, referrals, etc.) are just for website content - not the core automation.</p>
+<h2>What's Next</h2>
+<p><strong>Waiting on:</strong> MyPrize account manager to enable promo assignment permissions</p>
+<p><strong>When approved, we'll build:</strong></p>
+<ul>
+<li>Backend service (Node.js/Python) to bridge MyPrize ↔ Moonie-v2</li>
+<li>Real-time room monitoring (poll every 5 seconds)</li>
+<li>Automatic prize fulfillment system</li>
+<li>PubNub chat notifications</li>
+<li>WebSocket connection to Moonie-v2 frontend</li>
+</ul>
+<h2>Project Status</h2>
+<p>📦 <strong>Shelved</strong> - Complete and ready to resume when permissions are granted</p>
+<p>All code is documented in <code>STATUS.md</code> with:</p>
+<ul>
+<li>Working endpoints</li>
+<li>Configuration details</li>
+<li>Next steps</li>
+<li>Architecture plans</li>
+</ul>
+<h2>Technical Details</h2>
+<h3>Authentication Flow</h3>
+<p>MyPrize uses HMAC-SHA512 signatures for all authenticated requests:</p>
+<pre><code class="language-javascript">const timestamp = Math.floor(Date.now() / 1000);
+const stringToSign = `${timestamp}|${httpMethod}|${path}`;
+const signature = createHmac('sha512', secret)
+  .update(stringToSign)
+  .digest('hex');
+
+const xApiKey = `${apiKeyLabel}|${timestamp}|${signature}`;
+</code></pre>
+<p>Header: <code>x-api-key: {apiKeyLabel}|{timestamp}|{signature}</code></p>
+<h3>Rate Limits</h3>
+<ul>
+<li><strong>5000 requests per 5 minutes</strong> - More than enough for our use case</li>
+<li>Respect cache-control headers to avoid unnecessary requests</li>
+</ul>
+<h2>Lessons Learned</h2>
+<ol>
+<li><strong>API permissions matter</strong> - Even with working auth, you need endpoint-level permissions</li>
+<li><strong>Test early</strong> - Good we tested before building the full integration</li>
+<li><strong>Document blockers</strong> - Clear STATUS.md helps resume work quickly</li>
+<li><strong>Secure credentials</strong> - Interactive prompts > storing secrets in files</li>
+</ol>
+<h2>The Big Picture</h2>
+<p>This work sets up the foundation for <strong>fully automated giveaways</strong>:</p>
+<ul>
+<li>Stream on Kick while users play along on MyPrize</li>
+<li>Moonie Machine automatically triggers for qualified players</li>
+<li>Prizes assigned instantly via API</li>
+<li>Chat notifications keep engagement high</li>
+<li>No manual intervention needed</li>
+</ul>
+<p><strong>It's going to be epic once permissions come through.</strong></p>
+<hr>
+<p><em>Tools: Node.js ES modules, native crypto, readline</em>
+<em>Status: Paused pending API permissions</em>
+<em>Next: Backend service architecture</em></p>
+5:["$","article",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-white","children":"MyPrize API Exploration: Planning the Moonie Integration"}],["$","div",null,{"className":"flex items-center gap-4 text-slate-400 mb-6","children":["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"$D2025-11-17T00:00:00.000Z","children":"November 17, 2025"}]]}]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-8","children":[["$","span","api",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"api"]}],["$","span","integration",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"integration"]}],["$","span","myprize",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"myprize"]}],["$","span","planning",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"planning"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-slate max-w-none prose-headings:text-white prose-a:text-blue-400 prose-code:text-green-400 prose-pre:bg-slate-900 prose-pre:border prose-pre:border-slate-700","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"MyPrize API Exploration: Planning the Moonie Integration - Bill Crandell"}],["$","meta","1",{"name":"author","content":"Bill Crandell"}],["$","meta","2",{"name":"keywords","content":"developer,AI development,Next.js,TypeScript,full-stack"}],["$","meta","3",{"property":"og:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","4",{"property":"og:description","content":"Building at AI-speed with parallel execution patterns"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","8",{"name":"twitter:description","content":"Building at AI-speed with parallel execution patterns"}],["$","link","9",{"rel":"icon","href":"/bill-crandell-dev/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","10",{}]]
+8:null
