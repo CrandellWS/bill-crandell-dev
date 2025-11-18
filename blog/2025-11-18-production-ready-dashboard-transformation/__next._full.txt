@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[70119,["/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js"],"default"]
+3:I[39756,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","style"]
+:HL["/bill-crandell-dev/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bill-crandell-dev/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"HDMXZyXTRj_st-a5QUAhD","c":["","blog","2025-11-18-production-ready-dashboard-transformation",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","2025-11-18-production-ready-dashboard-transformation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bill-crandell-dev/_next/static/chunks/fd6ed3af2169ad51.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/bill-crandell-dev/_next/static/chunks/b8c35e0a8a2bf3e2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased bg-slate-950 text-slate-100 min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-slate-700 bg-slate-900/50 backdrop-blur-sm mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","p",null,{"className":"text-slate-400 text-sm","children":["© ",2025," Bill Crandell. Built with Next.js and AI-speed development."]}],["$","div",null,{"className":"flex items-center gap-4","children":["$","a",null,{"href":"https://github.com/CrandellWS","target":"_blank","rel":"noopener noreferrer","className":"text-slate-400 hover:text-white transition-colors flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}],["$","span",null,{"className":"text-sm","children":"GitHub"}]]}]}]]}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+5:["$","article",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-white","children":"What I Built Today: November 18, 2025"}],["$","div",null,{"className":"flex items-center gap-4 text-slate-400 mb-6","children":["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2025-11-18","children":"November 18, 2025"}]]}]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-8","children":[["$","span","devlog",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"devlog"]}],["$","span","react",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"react"]}],["$","span","typescript",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"typescript"]}],["$","span","dashboard",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"dashboard"]}],["$","span","production",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":["$Le","$Lf","$undefined"]}],"production"]}]]}]]}],"$L10"]}]
+e:["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}]
+f:["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}]
+11:Ta38,<h1>What I Built Today: November 18, 2025</h1>
+<h2>Morning: Production-Ready Dashboard Transformation</h2>
+<p>Took my N3 Marketing Reports Dashboard from working prototype to production-ready in one comprehensive session. Here's what got done:</p>
+<h3>Code Quality Overhaul (4-hour session)</h3>
+<ul>
+<li>Fixed critical XSS security vulnerability and implemented DOMPurify sanitization</li>
+<li>Replaced all 24 console statements with a professional logging system</li>
+<li>Improved TypeScript type safety (reduced 'any' types by 81%)</li>
+<li>Added 5 comprehensive error boundaries with custom fallback UIs</li>
+<li>Configured ESLint and eliminated all 11 critical errors</li>
+<li>Built complete test suite: 111 tests, 100% pass rate</li>
+<li>Fixed React hydration warnings (nested button issues)</li>
+<li>Updated all dependencies to latest stable versions</li>
+</ul>
+<p><strong>Results:</strong> Zero console errors, zero build warnings, optimized bundle (462 kB), ready for deployment</p>
+<h2>Midday: Documentation &#x26; Git Structure</h2>
+<p>Created comprehensive documentation for the multi-repo structure:</p>
+<ul>
+<li>Documented three independent git repositories (frontend, backend, shared logs)</li>
+<li>Explained feature branch workflow</li>
+<li>Created safety guidelines and rollback procedures</li>
+</ul>
+<h2>Evening: Expense Tracking Feature</h2>
+<p>Built a complete expense tracking system integrating React frontend with PHP backend:</p>
+<h3>Backend (PHP)</h3>
+<ul>
+<li>Modified API endpoint to fetch all company expenses</li>
+<li>262 expense records with category breakdowns</li>
+<li>Maintained backward compatibility</li>
+</ul>
+<h3>Frontend (React/TypeScript)</h3>
+<ul>
+<li>New ExpenseCard component with category breakdowns</li>
+<li>Animated progress bars showing expense percentages by category</li>
+<li>Proper error handling, loading states, dark mode support</li>
+<li>Client-side aggregation and calculations</li>
+<li>Full TypeScript type safety</li>
+</ul>
+<p><strong>Live Result:</strong> Dashboard now displays total company expenses ($187K+) broken down by 30+ categories with visual progress indicators</p>
+<hr>
+<h2>Tech Stack Highlights</h2>
+<ul>
+<li>React 19.2, TypeScript 5.9, Vite 7.2</li>
+<li>Jest + React Testing Library (111 tests)</li>
+<li>Recharts for data visualization</li>
+<li>DOMPurify for security</li>
+<li>ESLint + TypeScript ESLint for code quality</li>
+</ul>
+<h2>Metrics</h2>
+<ul>
+<li>12 production commits to master</li>
+<li>~1,500 lines of code added</li>
+<li>Bundle optimized: 462 kB (116 kB gzipped)</li>
+<li>Build time: 2.15s</li>
+<li>Test execution: 1.32s</li>
+</ul>
+10:["$","div",null,{"className":"prose prose-invert prose-slate max-w-none prose-headings:text-white prose-a:text-blue-400 prose-code:text-green-400 prose-pre:bg-slate-900 prose-pre:border prose-pre:border-slate-700","dangerouslySetInnerHTML":{"__html":"$11"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"What I Built Today: November 18, 2025 - Bill Crandell"}],["$","meta","1",{"name":"description","content":"Transformed N3 Marketing Reports Dashboard from prototype to production-ready with comprehensive code quality overhaul, security fixes, and new expense tracking feature."}],["$","meta","2",{"name":"author","content":"Bill Crandell"}],["$","meta","3",{"name":"keywords","content":"developer,AI development,Next.js,TypeScript,full-stack"}],["$","meta","4",{"property":"og:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","5",{"property":"og:description","content":"Building at AI-speed with parallel execution patterns"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bill Crandell - Developer & AI Orchestrator"}],["$","meta","9",{"name":"twitter:description","content":"Building at AI-speed with parallel execution patterns"}],["$","link","10",{"rel":"icon","href":"/bill-crandell-dev/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","11",{}]]
+8:null

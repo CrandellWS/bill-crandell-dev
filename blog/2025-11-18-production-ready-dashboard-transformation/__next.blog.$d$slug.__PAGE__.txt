@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+7:I[97367,["/bill-crandell-dev/_next/static/chunks/ff1a16fafef87110.js","/bill-crandell-dev/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"buildId":"HDMXZyXTRj_st-a5QUAhD","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-white","children":"What I Built Today: November 18, 2025"}],["$","div",null,{"className":"flex items-center gap-4 text-slate-400 mb-6","children":["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2025-11-18","children":"November 18, 2025"}]]}]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-8","children":[["$","span","devlog",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"devlog"]}],["$","span","react",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"react"]}],["$","span","typescript",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"typescript"]}],["$","span","dashboard",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"dashboard"]}],["$","span","production",{"className":"px-3 py-1 bg-slate-800 text-blue-400 text-sm rounded-full font-mono border border-slate-700 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":12,"height":12,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag","aria-hidden":"true","children":["$L2","$L3","$undefined"]}],"production"]}]]}]]}],"$L4"]}],null,"$L5"]}],"loading":null,"isPartial":false}
+2:["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}]
+3:["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}]
+6:Ta38,<h1>What I Built Today: November 18, 2025</h1>
+<h2>Morning: Production-Ready Dashboard Transformation</h2>
+<p>Took my N3 Marketing Reports Dashboard from working prototype to production-ready in one comprehensive session. Here's what got done:</p>
+<h3>Code Quality Overhaul (4-hour session)</h3>
+<ul>
+<li>Fixed critical XSS security vulnerability and implemented DOMPurify sanitization</li>
+<li>Replaced all 24 console statements with a professional logging system</li>
+<li>Improved TypeScript type safety (reduced 'any' types by 81%)</li>
+<li>Added 5 comprehensive error boundaries with custom fallback UIs</li>
+<li>Configured ESLint and eliminated all 11 critical errors</li>
+<li>Built complete test suite: 111 tests, 100% pass rate</li>
+<li>Fixed React hydration warnings (nested button issues)</li>
+<li>Updated all dependencies to latest stable versions</li>
+</ul>
+<p><strong>Results:</strong> Zero console errors, zero build warnings, optimized bundle (462 kB), ready for deployment</p>
+<h2>Midday: Documentation &#x26; Git Structure</h2>
+<p>Created comprehensive documentation for the multi-repo structure:</p>
+<ul>
+<li>Documented three independent git repositories (frontend, backend, shared logs)</li>
+<li>Explained feature branch workflow</li>
+<li>Created safety guidelines and rollback procedures</li>
+</ul>
+<h2>Evening: Expense Tracking Feature</h2>
+<p>Built a complete expense tracking system integrating React frontend with PHP backend:</p>
+<h3>Backend (PHP)</h3>
+<ul>
+<li>Modified API endpoint to fetch all company expenses</li>
+<li>262 expense records with category breakdowns</li>
+<li>Maintained backward compatibility</li>
+</ul>
+<h3>Frontend (React/TypeScript)</h3>
+<ul>
+<li>New ExpenseCard component with category breakdowns</li>
+<li>Animated progress bars showing expense percentages by category</li>
+<li>Proper error handling, loading states, dark mode support</li>
+<li>Client-side aggregation and calculations</li>
+<li>Full TypeScript type safety</li>
+</ul>
+<p><strong>Live Result:</strong> Dashboard now displays total company expenses ($187K+) broken down by 30+ categories with visual progress indicators</p>
+<hr>
+<h2>Tech Stack Highlights</h2>
+<ul>
+<li>React 19.2, TypeScript 5.9, Vite 7.2</li>
+<li>Jest + React Testing Library (111 tests)</li>
+<li>Recharts for data visualization</li>
+<li>DOMPurify for security</li>
+<li>ESLint + TypeScript ESLint for code quality</li>
+</ul>
+<h2>Metrics</h2>
+<ul>
+<li>12 production commits to master</li>
+<li>~1,500 lines of code added</li>
+<li>Bundle optimized: 462 kB (116 kB gzipped)</li>
+<li>Build time: 2.15s</li>
+<li>Test execution: 1.32s</li>
+</ul>
+4:["$","div",null,{"className":"prose prose-invert prose-slate max-w-none prose-headings:text-white prose-a:text-blue-400 prose-code:text-green-400 prose-pre:bg-slate-900 prose-pre:border prose-pre:border-slate-700","dangerouslySetInnerHTML":{"__html":"$6"}}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
